@@ -10,7 +10,7 @@ title:            my notes
 tagline:          ''
 description:      ''
 url:              http://rvalieris.github.io/notes
-baseurl:          '/'
+baseurl:          '/notes/'
 paginate:         5
 
 # Custom vars
