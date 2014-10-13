@@ -1,0 +1,18 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            my notes
+tagline:          ''
+description:      ''
+url:              http://rvalieris.github.io/notes
+baseurl:          '/'
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
